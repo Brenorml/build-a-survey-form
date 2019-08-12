@@ -1,0 +1,158 @@
+#title {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(41, 48, 101);
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+#description {
+  font-size: 20px;
+  margin-right: 580px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+#description1 {
+  font-size: 20px;
+  margin-left: -865px;
+  padding-top: 10px;
+  text-align: center;
+}
+#description2 {
+  font-size: 20px;
+  padding-right: 470px;
+  padding-top: 10px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+#description3 {
+  font-size: 20px;
+  margin-left: -910px;
+  padding-top: 10px;
+  text-align: center;
+  
+}
+#description4{
+  font-size: 20px;
+  margin-left: -270px;
+  padding-top: 10px;
+  text-align: center;
+}
+#survey-form {
+  text-align: center;
+  margin-right: -300px;
+  
+}
+#name-label {
+  font-size: 20px;
+  margin-right: -5px;
+}
+#email-label {
+  font-size: 20px;
+  margin-left: -13px;
+  padding-right: 5px
+}
+#number-label {
+  margin-left: -317px;
+  margin-right: -5px;
+  font-size: 20px;  
+}
+#name {
+  margin-left: 25px;
+  margin-bottom: 60px;
+  margin-right: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+#email {
+  margin-left: 20px;
+  margin-bottom: 60px;
+  margin-right: 45px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+#number {
+  margin-left: 22px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+#dropdown {
+  margin-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+}
+#dropdown2 {
+  margin-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+}
+#submit {
+  font-size: 20px;
+  color: white;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #4F55C7;
+  border-radius: 5px;
+  margin-left: -300px;
+}
+main {
+  background: #C8CAFF;
+}
+h2 {
+  text-align: center;
+}
+
+#definitely {
+  margin-left: -30px;
+}
+#maybe {
+  margin-left: -55px;
+}
+#not-sure {
+  margin-left: -38px;
+  margin-bottom: 60px;
+}
+#java-developer {
+  margin-left: 15px;
+}
+#phyton-developer {
+  margin-left: 35px;
+}
+#c-developer {
+  margin-left: 80px;
+}
+#c-sharp-developer {
+  margin-left: -1px;
+}
+#Unit {
+  margin-left: 82px;
+  margin-bottom: 60px;
+}
+#textarea {
+  margin-left: 20px;
+  vertical-align: top;
+  resize: none;
+}
+h2 {
+  padding-bottom: 50px;
+}
+.test {
+  font-size: 20px;
+  margin-top: -20px;
+  margin-right: 160px;
+}
+.test2 {
+  font-size: 20px;
+  margin-top: -20px;
+  margin-right: 160px;
+}

@@ -1,0 +1,33 @@
+ <main align="center">
+  
+  <h1 id="title">SURVEY FORM</h1>
+  <h2>Let me know about your interest on my job</h2><br>
+    <form id="survey-form">
+      <label for="name" id="name-label"><strong>Name:</strong><input type="name" required="name" id="name" size="40" placeholder="Insert your name"></label><br>
+      <label for="email" id="email-label"><strong>Email:</strong></label><input id="email" type="email" required="email" size="40" placeholder="Insert your email"><br>
+      <label for="number" id="number-label"><strong>Curriculum Score:</strong><input id="number" min="0" max="10"  type="number" required="number" placeholder="Score"></label><br>
+  <p id="description"><strong>Wich option best describes your research?<select id="dropdown" name="jobs"><option value="front-end">Front-end</option><option value="back-end">Back-end</option><option value="it-support">IT Support</option></select></p><br>
+    <label id="description1">How likely is that you would recommend me to your partners?</label>
+      <div class="test2">
+      <input id="definitely" type="radio" name="choice" value="radio">Definitely<br>
+      <input id="maybe" type="radio" name="choice" value="radio">Maybe<br>
+      <input id="not-sure" type="radio" name="choice" value="radio">Not Sure<br></label>
+      </div>
+  <p id="description2">What do you like most in my resume:<select id="dropdown2" name="jobs"><option value="developer">Web Developer</option><option value="architecture">Architect</option><option value="construction-estimator">Construction Estimator</option></select></p><br>
+      <label id="description3">Things that should be improved in the future (Check all that apply):</label>
+      <div class="test">
+      <input id="java-developer" type="checkbox" name="teste" value="1">Java Developer<br>
+      <input id="phyton-developer" type="checkbox" name="teste" value="2">Phyton Developer<br>
+      <input id="c-developer" type="checkbox" name="c-developer" value="3">C+ and C++ Developer<br>
+      <input id="c-sharp-developer" type="checkbox" name="c#-developer" value="4">C# Developer<br>
+      <input id="Unit" type="checkbox" name="Unit" value="5">Unit (Game Developer)<br>
+         </div>  
+  <p id="description4">Any comments or Suggestions?<textarea id="textarea" type="text" rows="5" cols="40" dirname="submit.dir" placeholder="Insert your comments and suggestions">
+  </textarea>
+  </strong></p><br>
+      <button align="center" action="submit" id="submit" type="submit">Submit</button>
+    </form>
+</main>
+<!--
+<script  src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+-->
